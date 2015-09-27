@@ -13,8 +13,7 @@
 - Kostenlose, (gesponserte) Veranstaltung scheint aber gut zu funktionieren
 - Allerdings viele kurzfristige Absagen
 - Es ist relativ einfach Gelder zu bekommen. Das Interesse an der Veranstaltung scheint bei den Sponsoren aber relativ gering zu sein
-- Der Raumanbieter hat nicht zwingend auch die Interessen der Veranstaltung (z.B. Belegung des Veranstaltungsortes durch andere Personen) im Blick, das war im noon etwas anderes
+- Der Raumanbieter hat nicht zwingend auch die Interessen der Veranstaltung (z.B. Belegung des Veranstaltungsortes durch andere Personen) im Blick – das war im noon etwas anders
 - Presse geht besser durch Kontakte, aber auch ohne (Weser-Kurier kam auf Eigeninitiative)
 - Strukturiertere Verwaltung des Geldes (Personen)?
-- Vielleicht in den Teams noch etwas intensiver/öfter Nachfragen und Hilfe anbieten? 
-- 
+- Vielleicht in den Teams noch etwas intensiver/öfter Nachfragen und Hilfe anbieten?
