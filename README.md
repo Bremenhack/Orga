@@ -17,3 +17,6 @@
 - Presse geht besser durch Kontakte, aber auch ohne (Weser-Kurier kam auf Eigeninitiative)
 - Strukturiertere Verwaltung des Geldes (Personen)?
 - Vielleicht in den Teams noch etwas intensiver/öfter Nachfragen und Hilfe anbieten?
+- Software mit fetten, völlig unbekannten Frameworks hat sich nicht bewährt
+- Wir sollten beim nächsten mal einen "Zwischenstopp" mit Statusbericht einlegen, z.B. Samstag am frühen nachmittag
+- 
