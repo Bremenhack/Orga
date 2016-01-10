@@ -4,6 +4,8 @@
 - [ ] Pecha Kucha über den BremenHack ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352599))
 - [ ] Vortrag über den BremenHack auf dem Webmontag ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352635))
 - [ ] Überblick über alle möglichen Locations in Bremen machen ([Issue](https://github.com/Bremenhack/Orga/issues/8))
+- [ ] Sponsoren werden gesucht ([Issue](https://github.com/Bremenhack/Orga/issues/9))
+ 
 
 ## Dinge, die uns 2015 aufgefallen sind:
 - Internet und Router waren zu stark ausgelastet
