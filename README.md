@@ -1,6 +1,11 @@
 # Orga
 
-## Dinge, die uns aufgefallen sind:
+## Dinge, die wir 2016 machen werden:
+- [ ] Pecha Kucha über den BremenHack
+- [ ] Vortrag über den BremenHack auf dem Webmontag
+- [ ] Überblick über alle möglichen Locations in Bremen machen
+
+## Dinge, die uns 2015 aufgefallen sind:
 - Internet und Router waren zu stark ausgelastet
 - Am ersten Tag war es viel zu laut
 - Getränke sind zu teuer
