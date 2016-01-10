@@ -1,8 +1,8 @@
 # Orga
 
 ## Dinge, die wir 2016 machen werden:
-- [ ] Pecha Kucha über den BremenHack
-- [ ] Vortrag über den BremenHack auf dem Webmontag
+- [ ] Pecha Kucha über den BremenHack ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352599))
+- [ ] Vortrag über den BremenHack auf dem Webmontag ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352635))
 - [ ] Überblick über alle möglichen Locations in Bremen machen
 
 ## Dinge, die uns 2015 aufgefallen sind:
