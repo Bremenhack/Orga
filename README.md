@@ -4,7 +4,7 @@
 - [x] Pecha Kucha über den BremenHack ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352599))
 - [x] Vortrag über den BremenHack auf dem Webmontag ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352635))
 - [x] Überblick über alle möglichen Locations in Bremen machen ([Issue](https://github.com/Bremenhack/Orga/issues/8))
-- [ ] Sponsoren werden gesucht ([Issue](https://github.com/Bremenhack/Orga/issues/9))
+- [x] Sponsoren werden gesucht ([Issue](https://github.com/Bremenhack/Orga/issues/9))
 - [x] Partner werden gesucht ([Issue](https://github.com/Bremenhack/Orga/issues/10)
  
 
