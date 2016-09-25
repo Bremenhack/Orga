@@ -2,8 +2,9 @@
 
 ## Dinge, die uns 2016 aufgefallen sind:
 - für die Abschlussveranstaltung könnte man sehr gut ein Facebook-Event erstellen
-- Steve vom Hackerspace berichtet von großer Resonanz über ([Meetup](([Issue](https://www.meetup.com)
+- Steve vom Hackerspace berichtet von großer Resonanz über [Meetup](https://www.meetup.com)
 - Wir hatten zu wenig Geld
+
 
 
 
