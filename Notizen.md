@@ -3,9 +3,8 @@
 ## Dinge, die uns 2016 aufgefallen sind:
 - für die Abschlussveranstaltung könnte man sehr gut ein Facebook-Event erstellen
 - Steve vom Hackerspace berichtet von großer Resonanz über [Meetup](https://www.meetup.com)
+- Wifi udn Netz war echt kacke. Das muss beim nächsten mal besser werden. 
 - Wir hatten zu wenig Geld
-
-
 
 
 ## Dinge, die wir 2016 machen werden:
