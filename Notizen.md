@@ -1,5 +1,12 @@
 # Orga
 
+## Dinge, die uns 2016 aufgefallen sind:
+- für die Abschlussveranstaltung könnte man sehr gut ein Facebook-Event erstellen
+- Steve vom Hackerspace berichtet von großer Resonanz über ([Meetup](([Issue](https://www.meetup.com)
+- Wir hatten zu wenig Geld
+
+
+
 ## Dinge, die wir 2016 machen werden:
 - [x] Pecha Kucha über den BremenHack ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352599))
 - [x] Vortrag über den BremenHack auf dem Webmontag ([Issue](https://github.com/Bremenhack/Orga/issues/7#issuecomment-170352635))
