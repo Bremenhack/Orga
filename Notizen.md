@@ -1,4 +1,6 @@
 # Orga
+## Info für 2017
+Seit 2017 ist die Organisation nicht mehr ganz so öffentlich, da weniger Organisatoren auf Github planen. Falls interesse am Mitarbeiten besteht, bitte unter info@bremenhack.de melden.
 
 ## Dinge, die uns 2016 aufgefallen sind:
 - für die Abschlussveranstaltung könnte man sehr gut ein Facebook-Event erstellen
